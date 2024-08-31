@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "For the Guild 018f89ba4f3f4f6d86cee7678a051341.md",
+                "file": "For the Guild.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For the Guild 018f89ba4f3f4f6d86cee7678a051341.md",
+                "file": "For the Guild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For the Guild 018f89ba4f3f4f6d86cee7678a051341.md",
+                "file": "For the Guild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For the Guild 018f89ba4f3f4f6d86cee7678a051341.md"
+                "file": "For the Guild.md"
               }
             }
           }
@@ -146,9 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a3f16a4384c21c61",
+  "active": "8c86ffd56c1fcfe5",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "For the Guild.md",
+    "Враги",
     "README.md",
-    "For the Guild 018f89ba4f3f4f6d86cee7678a051341.md"
+    "1f9ac426-7b28-45a9-b364-fe436e408edb.png",
+    "Images/1f9ac426-7b28-45a9-b364-fe436e408edb.png",
+    "Images/3f5d3480-0825-4c5a-9da6-00152d1fbb4b.png",
+    "Images/7ca4f773-d843-4586-a292-b9bf2c547c6b.png",
+    "Images/9b9585e7-734c-4222-86a6-77db1f1d969c.png",
+    "Images/489eee18-4f16-4154-bed2-3c752bbb94f2.png",
+    "Images/Untitled.png",
+    "Images/Untitled 1.png"
   ]
 }
