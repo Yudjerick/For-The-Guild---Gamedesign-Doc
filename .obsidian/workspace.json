@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0dc0503cd9cf304",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Противники.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b9dc31774b1153b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Предметы/Предметы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c77f2bf86ac6250",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Противники.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "For the Guild.md",
+                "file": "Противники.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "For the Guild.md",
+                "file": "Противники.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "For the Guild.md"
+                "file": "Противники.md"
               }
             }
           }
@@ -146,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c86ffd56c1fcfe5",
+  "active": "8c77f2bf86ac6250",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Предметы/Сокровища.md",
+    "Предметы/Предметы из магазина.md",
+    "Предметы/Предметы.md",
     "For the Guild.md",
+    "Противники.md",
+    "Предметы",
+    "Untitled.canvas",
     "Враги",
     "README.md",
     "1f9ac426-7b28-45a9-b364-fe436e408edb.png",
